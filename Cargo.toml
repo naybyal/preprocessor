@@ -1,0 +1,10 @@
+[package]
+name = "c_preprocessor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clang = "2.0.0"
+clang-sys = "1.5"
+petgraph = "0.7.0"
+regex = "1.7"
